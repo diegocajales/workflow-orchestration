@@ -8,6 +8,12 @@
 It's 134.5 MB
 ```
 
+Equivalent to
+
+```
+128.2692 MiB
+```
+
 ### Question 2 - What is the rendered value of the variable file when the inputs taxi is set to green, year is set to 2020, and month is set to 04 during execution?
 
 Based on
